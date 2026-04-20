@@ -1,0 +1,12 @@
+# 忽略大文件
+*.bin
+*.vec
+*.pdf
+
+# 或者指定具体文件
+cc.zh.300.bin
+wiki-news-300d-1M-subword.vec
+202308064704.pdf
+
+# 忽略缓存文件夹
+__pycache__/

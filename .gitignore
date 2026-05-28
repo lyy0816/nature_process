@@ -10,3 +10,9 @@ wiki-news-300d-1M-subword.vec
 
 # 忽略缓存文件夹
 __pycache__/
+
+# 忽略密钥文件
+.env
+
+# 忽略向量数据库
+chroma_db/

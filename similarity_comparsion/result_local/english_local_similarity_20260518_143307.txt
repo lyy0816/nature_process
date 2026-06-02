@@ -1,0 +1,5897 @@
+=== English Text Local Similarity Comparison Experiment ===
+Run time: 2026-05-18 14:33:07
+Methods: One-hot Encoding, BoW, TF-IDF, n-gram
+Similarity metrics: Cosine Similarity + Euclidean Distance
+
+
+==================================================
+【OneHot - Words】
+==================================================
+Vector dimension: 27
+
+   apple  vs  banana
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  orange
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  grape
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  orange
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  grape
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  grape
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mountain  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mountain  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mountain  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   forest  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   forest  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   ocean  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+
+==================================================
+【OneHot - Sentences】
+==================================================
+Vector dimension: 45
+
+   I love eating apple  vs  I love eating banana
+      Cosine Similarity = 0.6667    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  Strawberries are sweet
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.4495
+
+   I love eating apple  vs  The computer is very fast
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The laptop is portable
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  The phone screen is clear
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The keyboard feels great
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  The weather is very hot
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The sky is cloudy today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The dog is very friendly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  The sky is blue today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  The mountain is very high
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  Strawberries are sweet
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.4495
+
+   I love eating banana  vs  The computer is very fast
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The laptop is portable
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  The phone screen is clear
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The keyboard feels great
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  The weather is very hot
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The sky is cloudy today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The dog is very friendly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  The sky is blue today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  The mountain is very high
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The computer is very fast
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The laptop is portable
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  The phone screen is clear
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The keyboard feels great
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  The weather is very hot
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The sky is cloudy today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The dog is very friendly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  The sky is blue today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  The mountain is very high
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   The computer is very fast  vs  The laptop is portable
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The computer is very fast  vs  The phone screen is clear
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The computer is very fast  vs  The keyboard feels great
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The computer is very fast  vs  Today is a sunny day
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The computer is very fast  vs  The weather is very hot
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The computer is very fast  vs  The sky is cloudy today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The computer is very fast  vs  The dog is very friendly
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The computer is very fast  vs  The cat likes to sleep
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The computer is very fast  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The computer is very fast  vs  The sky is blue today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The computer is very fast  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The computer is very fast  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The computer is very fast  vs  The mountain is very high
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The laptop is portable  vs  The phone screen is clear
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The laptop is portable  vs  The keyboard feels great
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The laptop is portable  vs  Today is a sunny day
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The laptop is portable  vs  The weather is very hot
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The laptop is portable  vs  The sky is cloudy today
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The laptop is portable  vs  The dog is very friendly
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The laptop is portable  vs  The cat likes to sleep
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The laptop is portable  vs  The bird sings beautifully
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The laptop is portable  vs  The sky is blue today
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The laptop is portable  vs  The leaves turn green
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The laptop is portable  vs  The river flows quietly
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The laptop is portable  vs  The mountain is very high
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The phone screen is clear  vs  The keyboard feels great
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The phone screen is clear  vs  Today is a sunny day
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The phone screen is clear  vs  The weather is very hot
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The phone screen is clear  vs  The sky is cloudy today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The phone screen is clear  vs  The dog is very friendly
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The phone screen is clear  vs  The cat likes to sleep
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The phone screen is clear  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The phone screen is clear  vs  The sky is blue today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The phone screen is clear  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The phone screen is clear  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The phone screen is clear  vs  The mountain is very high
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The keyboard feels great  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   The keyboard feels great  vs  The weather is very hot
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The keyboard feels great  vs  The sky is cloudy today
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The keyboard feels great  vs  The dog is very friendly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The keyboard feels great  vs  The cat likes to sleep
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The keyboard feels great  vs  The bird sings beautifully
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The keyboard feels great  vs  The sky is blue today
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The keyboard feels great  vs  The leaves turn green
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The keyboard feels great  vs  The river flows quietly
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The keyboard feels great  vs  The mountain is very high
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   Today is a sunny day  vs  The weather is very hot
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   Today is a sunny day  vs  The sky is cloudy today
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   Today is a sunny day  vs  The dog is very friendly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   Today is a sunny day  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 3.0000
+
+   Today is a sunny day  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Today is a sunny day  vs  The sky is blue today
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   Today is a sunny day  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Today is a sunny day  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Today is a sunny day  vs  The mountain is very high
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The weather is very hot  vs  The sky is cloudy today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The weather is very hot  vs  The dog is very friendly
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The weather is very hot  vs  The cat likes to sleep
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The weather is very hot  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The weather is very hot  vs  The sky is blue today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The weather is very hot  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The weather is very hot  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The weather is very hot  vs  The mountain is very high
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The sky is cloudy today  vs  The dog is very friendly
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The sky is cloudy today  vs  The cat likes to sleep
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The sky is cloudy today  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is cloudy today  vs  The sky is blue today
+      Cosine Similarity = 0.8000    Euclidean Distance = 1.4142
+
+   The sky is cloudy today  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is cloudy today  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is cloudy today  vs  The mountain is very high
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The dog is very friendly  vs  The cat likes to sleep
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The dog is very friendly  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The dog is very friendly  vs  The sky is blue today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The dog is very friendly  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The dog is very friendly  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The dog is very friendly  vs  The mountain is very high
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The cat likes to sleep  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The cat likes to sleep  vs  The sky is blue today
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The cat likes to sleep  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The cat likes to sleep  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The cat likes to sleep  vs  The mountain is very high
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The bird sings beautifully  vs  The sky is blue today
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The bird sings beautifully  vs  The leaves turn green
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The bird sings beautifully  vs  The river flows quietly
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The bird sings beautifully  vs  The mountain is very high
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is blue today  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is blue today  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is blue today  vs  The mountain is very high
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The leaves turn green  vs  The river flows quietly
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The leaves turn green  vs  The mountain is very high
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The river flows quietly  vs  The mountain is very high
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+
+==================================================
+【BoW - Words】
+==================================================
+Vector dimension: 27
+
+   apple  vs  banana
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  orange
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  grape
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  orange
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  grape
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  grape
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mountain  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mountain  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mountain  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   forest  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   forest  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   ocean  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+
+==================================================
+【BoW - Sentences】
+==================================================
+Vector dimension: 45
+
+   I love eating apple  vs  I love eating banana
+      Cosine Similarity = 0.6667    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  Strawberries are sweet
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.4495
+
+   I love eating apple  vs  The computer is very fast
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The laptop is portable
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  The phone screen is clear
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The keyboard feels great
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  The weather is very hot
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The sky is cloudy today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The dog is very friendly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  The sky is blue today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating apple  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating apple  vs  The mountain is very high
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  Strawberries are sweet
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.4495
+
+   I love eating banana  vs  The computer is very fast
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The laptop is portable
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  The phone screen is clear
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The keyboard feels great
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  The weather is very hot
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The sky is cloudy today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The dog is very friendly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  The sky is blue today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   I love eating banana  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   I love eating banana  vs  The mountain is very high
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The computer is very fast
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The laptop is portable
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  The phone screen is clear
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The keyboard feels great
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  The weather is very hot
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The sky is cloudy today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The dog is very friendly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  The sky is blue today
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Strawberries are sweet  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.6458
+
+   Strawberries are sweet  vs  The mountain is very high
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   The computer is very fast  vs  The laptop is portable
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The computer is very fast  vs  The phone screen is clear
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The computer is very fast  vs  The keyboard feels great
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The computer is very fast  vs  Today is a sunny day
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The computer is very fast  vs  The weather is very hot
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The computer is very fast  vs  The sky is cloudy today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The computer is very fast  vs  The dog is very friendly
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The computer is very fast  vs  The cat likes to sleep
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The computer is very fast  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The computer is very fast  vs  The sky is blue today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The computer is very fast  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The computer is very fast  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The computer is very fast  vs  The mountain is very high
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The laptop is portable  vs  The phone screen is clear
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The laptop is portable  vs  The keyboard feels great
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The laptop is portable  vs  Today is a sunny day
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The laptop is portable  vs  The weather is very hot
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The laptop is portable  vs  The sky is cloudy today
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The laptop is portable  vs  The dog is very friendly
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The laptop is portable  vs  The cat likes to sleep
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The laptop is portable  vs  The bird sings beautifully
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The laptop is portable  vs  The sky is blue today
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The laptop is portable  vs  The leaves turn green
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The laptop is portable  vs  The river flows quietly
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The laptop is portable  vs  The mountain is very high
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   The phone screen is clear  vs  The keyboard feels great
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The phone screen is clear  vs  Today is a sunny day
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The phone screen is clear  vs  The weather is very hot
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The phone screen is clear  vs  The sky is cloudy today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The phone screen is clear  vs  The dog is very friendly
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The phone screen is clear  vs  The cat likes to sleep
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The phone screen is clear  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The phone screen is clear  vs  The sky is blue today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The phone screen is clear  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The phone screen is clear  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The phone screen is clear  vs  The mountain is very high
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The keyboard feels great  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   The keyboard feels great  vs  The weather is very hot
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The keyboard feels great  vs  The sky is cloudy today
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The keyboard feels great  vs  The dog is very friendly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The keyboard feels great  vs  The cat likes to sleep
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The keyboard feels great  vs  The bird sings beautifully
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The keyboard feels great  vs  The sky is blue today
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The keyboard feels great  vs  The leaves turn green
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The keyboard feels great  vs  The river flows quietly
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The keyboard feels great  vs  The mountain is very high
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   Today is a sunny day  vs  The weather is very hot
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   Today is a sunny day  vs  The sky is cloudy today
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   Today is a sunny day  vs  The dog is very friendly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   Today is a sunny day  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 3.0000
+
+   Today is a sunny day  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Today is a sunny day  vs  The sky is blue today
+      Cosine Similarity = 0.4472    Euclidean Distance = 2.2361
+
+   Today is a sunny day  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Today is a sunny day  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 2.8284
+
+   Today is a sunny day  vs  The mountain is very high
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The weather is very hot  vs  The sky is cloudy today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The weather is very hot  vs  The dog is very friendly
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The weather is very hot  vs  The cat likes to sleep
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The weather is very hot  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The weather is very hot  vs  The sky is blue today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The weather is very hot  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The weather is very hot  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The weather is very hot  vs  The mountain is very high
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The sky is cloudy today  vs  The dog is very friendly
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The sky is cloudy today  vs  The cat likes to sleep
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The sky is cloudy today  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is cloudy today  vs  The sky is blue today
+      Cosine Similarity = 0.8000    Euclidean Distance = 1.4142
+
+   The sky is cloudy today  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is cloudy today  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is cloudy today  vs  The mountain is very high
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The dog is very friendly  vs  The cat likes to sleep
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The dog is very friendly  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The dog is very friendly  vs  The sky is blue today
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The dog is very friendly  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The dog is very friendly  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The dog is very friendly  vs  The mountain is very high
+      Cosine Similarity = 0.6000    Euclidean Distance = 2.0000
+
+   The cat likes to sleep  vs  The bird sings beautifully
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The cat likes to sleep  vs  The sky is blue today
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The cat likes to sleep  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The cat likes to sleep  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The cat likes to sleep  vs  The mountain is very high
+      Cosine Similarity = 0.2000    Euclidean Distance = 2.8284
+
+   The bird sings beautifully  vs  The sky is blue today
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The bird sings beautifully  vs  The leaves turn green
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The bird sings beautifully  vs  The river flows quietly
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The bird sings beautifully  vs  The mountain is very high
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is blue today  vs  The leaves turn green
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is blue today  vs  The river flows quietly
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The sky is blue today  vs  The mountain is very high
+      Cosine Similarity = 0.4000    Euclidean Distance = 2.4495
+
+   The leaves turn green  vs  The river flows quietly
+      Cosine Similarity = 0.2500    Euclidean Distance = 2.4495
+
+   The leaves turn green  vs  The mountain is very high
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+   The river flows quietly  vs  The mountain is very high
+      Cosine Similarity = 0.2236    Euclidean Distance = 2.6458
+
+
+==================================================
+【TFIDF - Words】
+==================================================
+Vector dimension: 27
+
+   apple  vs  banana
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  orange
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  grape
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   apple  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  orange
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  grape
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   banana  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  grape
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   orange  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   grape  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mango  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   peach  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   dog  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   cat  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   lion  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   tiger  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   horse  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   bird  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   computer  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   phone  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   keyboard  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   screen  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   camera  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   red  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   blue  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   green  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   yellow  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   purple  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   river  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mountain  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mountain  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   mountain  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   forest  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   forest  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   ocean  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+
+==================================================
+【TFIDF - Sentences】
+==================================================
+Vector dimension: 45
+
+   I love eating apple  vs  I love eating banana
+      Cosine Similarity = 0.6039    Euclidean Distance = 0.8900
+
+   I love eating apple  vs  Strawberries are sweet
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The computer is very fast
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The laptop is portable
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The phone screen is clear
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The keyboard feels great
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The weather is very hot
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The sky is cloudy today
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The dog is very friendly
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The sky is blue today
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating apple  vs  The mountain is very high
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  Strawberries are sweet
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The computer is very fast
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The laptop is portable
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The phone screen is clear
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The keyboard feels great
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The weather is very hot
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The sky is cloudy today
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The dog is very friendly
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The sky is blue today
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   I love eating banana  vs  The mountain is very high
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The computer is very fast
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The laptop is portable
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The phone screen is clear
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The keyboard feels great
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The weather is very hot
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The sky is cloudy today
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The dog is very friendly
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The sky is blue today
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Strawberries are sweet  vs  The mountain is very high
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   The computer is very fast  vs  The laptop is portable
+      Cosine Similarity = 0.1513    Euclidean Distance = 1.3028
+
+   The computer is very fast  vs  The phone screen is clear
+      Cosine Similarity = 0.1271    Euclidean Distance = 1.3213
+
+   The computer is very fast  vs  The keyboard feels great
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The computer is very fast  vs  Today is a sunny day
+      Cosine Similarity = 0.0855    Euclidean Distance = 1.3524
+
+   The computer is very fast  vs  The weather is very hot
+      Cosine Similarity = 0.3124    Euclidean Distance = 1.1727
+
+   The computer is very fast  vs  The sky is cloudy today
+      Cosine Similarity = 0.1407    Euclidean Distance = 1.3110
+
+   The computer is very fast  vs  The dog is very friendly
+      Cosine Similarity = 0.3124    Euclidean Distance = 1.1727
+
+   The computer is very fast  vs  The cat likes to sleep
+      Cosine Similarity = 0.0441    Euclidean Distance = 1.3827
+
+   The computer is very fast  vs  The bird sings beautifully
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The computer is very fast  vs  The sky is blue today
+      Cosine Similarity = 0.1407    Euclidean Distance = 1.3110
+
+   The computer is very fast  vs  The leaves turn green
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The computer is very fast  vs  The river flows quietly
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The computer is very fast  vs  The mountain is very high
+      Cosine Similarity = 0.3124    Euclidean Distance = 1.1727
+
+   The laptop is portable  vs  The phone screen is clear
+      Cosine Similarity = 0.1400    Euclidean Distance = 1.3115
+
+   The laptop is portable  vs  The keyboard feels great
+      Cosine Similarity = 0.0557    Euclidean Distance = 1.3743
+
+   The laptop is portable  vs  Today is a sunny day
+      Cosine Similarity = 0.0941    Euclidean Distance = 1.3460
+
+   The laptop is portable  vs  The weather is very hot
+      Cosine Similarity = 0.1513    Euclidean Distance = 1.3028
+
+   The laptop is portable  vs  The sky is cloudy today
+      Cosine Similarity = 0.1549    Euclidean Distance = 1.3001
+
+   The laptop is portable  vs  The dog is very friendly
+      Cosine Similarity = 0.1513    Euclidean Distance = 1.3028
+
+   The laptop is portable  vs  The cat likes to sleep
+      Cosine Similarity = 0.0485    Euclidean Distance = 1.3795
+
+   The laptop is portable  vs  The bird sings beautifully
+      Cosine Similarity = 0.0557    Euclidean Distance = 1.3743
+
+   The laptop is portable  vs  The sky is blue today
+      Cosine Similarity = 0.1549    Euclidean Distance = 1.3001
+
+   The laptop is portable  vs  The leaves turn green
+      Cosine Similarity = 0.0557    Euclidean Distance = 1.3743
+
+   The laptop is portable  vs  The river flows quietly
+      Cosine Similarity = 0.0557    Euclidean Distance = 1.3743
+
+   The laptop is portable  vs  The mountain is very high
+      Cosine Similarity = 0.1513    Euclidean Distance = 1.3028
+
+   The phone screen is clear  vs  The keyboard feels great
+      Cosine Similarity = 0.0468    Euclidean Distance = 1.3807
+
+   The phone screen is clear  vs  Today is a sunny day
+      Cosine Similarity = 0.0791    Euclidean Distance = 1.3571
+
+   The phone screen is clear  vs  The weather is very hot
+      Cosine Similarity = 0.1271    Euclidean Distance = 1.3213
+
+   The phone screen is clear  vs  The sky is cloudy today
+      Cosine Similarity = 0.1301    Euclidean Distance = 1.3190
+
+   The phone screen is clear  vs  The dog is very friendly
+      Cosine Similarity = 0.1271    Euclidean Distance = 1.3213
+
+   The phone screen is clear  vs  The cat likes to sleep
+      Cosine Similarity = 0.0408    Euclidean Distance = 1.3851
+
+   The phone screen is clear  vs  The bird sings beautifully
+      Cosine Similarity = 0.0468    Euclidean Distance = 1.3807
+
+   The phone screen is clear  vs  The sky is blue today
+      Cosine Similarity = 0.1301    Euclidean Distance = 1.3190
+
+   The phone screen is clear  vs  The leaves turn green
+      Cosine Similarity = 0.0468    Euclidean Distance = 1.3807
+
+   The phone screen is clear  vs  The river flows quietly
+      Cosine Similarity = 0.0468    Euclidean Distance = 1.3807
+
+   The phone screen is clear  vs  The mountain is very high
+      Cosine Similarity = 0.1271    Euclidean Distance = 1.3213
+
+   The keyboard feels great  vs  Today is a sunny day
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   The keyboard feels great  vs  The weather is very hot
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The keyboard feels great  vs  The sky is cloudy today
+      Cosine Similarity = 0.0518    Euclidean Distance = 1.3771
+
+   The keyboard feels great  vs  The dog is very friendly
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The keyboard feels great  vs  The cat likes to sleep
+      Cosine Similarity = 0.0423    Euclidean Distance = 1.3840
+
+   The keyboard feels great  vs  The bird sings beautifully
+      Cosine Similarity = 0.0486    Euclidean Distance = 1.3794
+
+   The keyboard feels great  vs  The sky is blue today
+      Cosine Similarity = 0.0518    Euclidean Distance = 1.3771
+
+   The keyboard feels great  vs  The leaves turn green
+      Cosine Similarity = 0.0486    Euclidean Distance = 1.3794
+
+   The keyboard feels great  vs  The river flows quietly
+      Cosine Similarity = 0.0486    Euclidean Distance = 1.3794
+
+   The keyboard feels great  vs  The mountain is very high
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   Today is a sunny day  vs  The weather is very hot
+      Cosine Similarity = 0.0855    Euclidean Distance = 1.3524
+
+   Today is a sunny day  vs  The sky is cloudy today
+      Cosine Similarity = 0.3052    Euclidean Distance = 1.1788
+
+   Today is a sunny day  vs  The dog is very friendly
+      Cosine Similarity = 0.0855    Euclidean Distance = 1.3524
+
+   Today is a sunny day  vs  The cat likes to sleep
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Today is a sunny day  vs  The bird sings beautifully
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Today is a sunny day  vs  The sky is blue today
+      Cosine Similarity = 0.3052    Euclidean Distance = 1.1788
+
+   Today is a sunny day  vs  The leaves turn green
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Today is a sunny day  vs  The river flows quietly
+      Cosine Similarity = 0.0000    Euclidean Distance = 1.4142
+
+   Today is a sunny day  vs  The mountain is very high
+      Cosine Similarity = 0.0855    Euclidean Distance = 1.3524
+
+   The weather is very hot  vs  The sky is cloudy today
+      Cosine Similarity = 0.1407    Euclidean Distance = 1.3110
+
+   The weather is very hot  vs  The dog is very friendly
+      Cosine Similarity = 0.3124    Euclidean Distance = 1.1727
+
+   The weather is very hot  vs  The cat likes to sleep
+      Cosine Similarity = 0.0441    Euclidean Distance = 1.3827
+
+   The weather is very hot  vs  The bird sings beautifully
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The weather is very hot  vs  The sky is blue today
+      Cosine Similarity = 0.1407    Euclidean Distance = 1.3110
+
+   The weather is very hot  vs  The leaves turn green
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The weather is very hot  vs  The river flows quietly
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The weather is very hot  vs  The mountain is very high
+      Cosine Similarity = 0.3124    Euclidean Distance = 1.1727
+
+   The sky is cloudy today  vs  The dog is very friendly
+      Cosine Similarity = 0.1407    Euclidean Distance = 1.3110
+
+   The sky is cloudy today  vs  The cat likes to sleep
+      Cosine Similarity = 0.0451    Euclidean Distance = 1.3819
+
+   The sky is cloudy today  vs  The bird sings beautifully
+      Cosine Similarity = 0.0518    Euclidean Distance = 1.3771
+
+   The sky is cloudy today  vs  The sky is blue today
+      Cosine Similarity = 0.6397    Euclidean Distance = 0.8489
+
+   The sky is cloudy today  vs  The leaves turn green
+      Cosine Similarity = 0.0518    Euclidean Distance = 1.3771
+
+   The sky is cloudy today  vs  The river flows quietly
+      Cosine Similarity = 0.0518    Euclidean Distance = 1.3771
+
+   The sky is cloudy today  vs  The mountain is very high
+      Cosine Similarity = 0.1407    Euclidean Distance = 1.3110
+
+   The dog is very friendly  vs  The cat likes to sleep
+      Cosine Similarity = 0.0441    Euclidean Distance = 1.3827
+
+   The dog is very friendly  vs  The bird sings beautifully
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The dog is very friendly  vs  The sky is blue today
+      Cosine Similarity = 0.1407    Euclidean Distance = 1.3110
+
+   The dog is very friendly  vs  The leaves turn green
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The dog is very friendly  vs  The river flows quietly
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The dog is very friendly  vs  The mountain is very high
+      Cosine Similarity = 0.3124    Euclidean Distance = 1.1727
+
+   The cat likes to sleep  vs  The bird sings beautifully
+      Cosine Similarity = 0.0423    Euclidean Distance = 1.3840
+
+   The cat likes to sleep  vs  The sky is blue today
+      Cosine Similarity = 0.0451    Euclidean Distance = 1.3819
+
+   The cat likes to sleep  vs  The leaves turn green
+      Cosine Similarity = 0.0423    Euclidean Distance = 1.3840
+
+   The cat likes to sleep  vs  The river flows quietly
+      Cosine Similarity = 0.0423    Euclidean Distance = 1.3840
+
+   The cat likes to sleep  vs  The mountain is very high
+      Cosine Similarity = 0.0441    Euclidean Distance = 1.3827
+
+   The bird sings beautifully  vs  The sky is blue today
+      Cosine Similarity = 0.0518    Euclidean Distance = 1.3771
+
+   The bird sings beautifully  vs  The leaves turn green
+      Cosine Similarity = 0.0486    Euclidean Distance = 1.3794
+
+   The bird sings beautifully  vs  The river flows quietly
+      Cosine Similarity = 0.0486    Euclidean Distance = 1.3794
+
+   The bird sings beautifully  vs  The mountain is very high
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The sky is blue today  vs  The leaves turn green
+      Cosine Similarity = 0.0518    Euclidean Distance = 1.3771
+
+   The sky is blue today  vs  The river flows quietly
+      Cosine Similarity = 0.0518    Euclidean Distance = 1.3771
+
+   The sky is blue today  vs  The mountain is very high
+      Cosine Similarity = 0.1407    Euclidean Distance = 1.3110
+
+   The leaves turn green  vs  The river flows quietly
+      Cosine Similarity = 0.0486    Euclidean Distance = 1.3794
+
+   The leaves turn green  vs  The mountain is very high
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+   The river flows quietly  vs  The mountain is very high
+      Cosine Similarity = 0.0506    Euclidean Distance = 1.3780
+
+
+==================================================
+【Ngram - Words】
+==================================================
+Vector dimension: 351
+
+   apple  vs  banana
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   apple  vs  orange
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   apple  vs  grape
+      Cosine Similarity = 0.1333    Euclidean Distance = 5.0990
+
+   apple  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   apple  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   apple  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   apple  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   apple  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   apple  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   apple  vs  horse
+      Cosine Similarity = 0.0667    Euclidean Distance = 5.2915
+
+   apple  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   apple  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   apple  vs  phone
+      Cosine Similarity = 0.0667    Euclidean Distance = 5.2915
+
+   apple  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   apple  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   apple  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   apple  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   apple  vs  blue
+      Cosine Similarity = 0.0745    Euclidean Distance = 5.0000
+
+   apple  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   apple  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   apple  vs  purple
+      Cosine Similarity = 0.3651    Euclidean Distance = 4.5826
+
+   apple  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   apple  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   apple  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   apple  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   apple  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   banana  vs  orange
+      Cosine Similarity = 0.0962    Euclidean Distance = 6.1644
+
+   banana  vs  grape
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   banana  vs  mango
+      Cosine Similarity = 0.1054    Euclidean Distance = 5.9161
+
+   banana  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   banana  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   banana  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   banana  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   banana  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   banana  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   banana  vs  bird
+      Cosine Similarity = 0.0589    Euclidean Distance = 5.8310
+
+   banana  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.9282
+
+   banana  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   banana  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.9282
+
+   banana  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   banana  vs  camera
+      Cosine Similarity = 0.0481    Euclidean Distance = 6.3246
+
+   banana  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   banana  vs  blue
+      Cosine Similarity = 0.0589    Euclidean Distance = 5.8310
+
+   banana  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   banana  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   banana  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   banana  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   banana  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.9282
+
+   banana  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   banana  vs  ocean
+      Cosine Similarity = 0.1054    Euclidean Distance = 5.9161
+
+   banana  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   orange  vs  grape
+      Cosine Similarity = 0.1217    Euclidean Distance = 5.3852
+
+   orange  vs  mango
+      Cosine Similarity = 0.1826    Euclidean Distance = 5.1962
+
+   orange  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   orange  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   orange  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   orange  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   orange  vs  tiger
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   orange  vs  horse
+      Cosine Similarity = 0.1217    Euclidean Distance = 5.3852
+
+   orange  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   orange  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   orange  vs  phone
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   orange  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   orange  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   orange  vs  camera
+      Cosine Similarity = 0.0556    Euclidean Distance = 5.8310
+
+   orange  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   orange  vs  blue
+      Cosine Similarity = 0.0680    Euclidean Distance = 5.2915
+
+   orange  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   orange  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   orange  vs  purple
+      Cosine Similarity = 0.0556    Euclidean Distance = 5.8310
+
+   orange  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   orange  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   orange  vs  forest
+      Cosine Similarity = 0.0556    Euclidean Distance = 5.8310
+
+   orange  vs  ocean
+      Cosine Similarity = 0.1217    Euclidean Distance = 5.3852
+
+   orange  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   grape  vs  mango
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   grape  vs  peach
+      Cosine Similarity = 0.0667    Euclidean Distance = 5.2915
+
+   grape  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   grape  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   grape  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   grape  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   grape  vs  horse
+      Cosine Similarity = 0.0667    Euclidean Distance = 5.2915
+
+   grape  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   grape  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   grape  vs  phone
+      Cosine Similarity = 0.0667    Euclidean Distance = 5.2915
+
+   grape  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   grape  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   grape  vs  camera
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   grape  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   grape  vs  blue
+      Cosine Similarity = 0.0745    Euclidean Distance = 5.0000
+
+   grape  vs  green
+      Cosine Similarity = 0.2000    Euclidean Distance = 4.8990
+
+   grape  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   grape  vs  purple
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   grape  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   grape  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   grape  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   grape  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   grape  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   mango  vs  peach
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   mango  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   mango  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   mango  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   mango  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   mango  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   mango  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   mango  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   mango  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   mango  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   mango  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   mango  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   mango  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   mango  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   mango  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   mango  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   mango  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   mango  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   mango  vs  mountain
+      Cosine Similarity = 0.0527    Euclidean Distance = 6.0828
+
+   mango  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   mango  vs  ocean
+      Cosine Similarity = 0.0667    Euclidean Distance = 5.2915
+
+   mango  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   peach  vs  dog
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   peach  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   peach  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   peach  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   peach  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   peach  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   peach  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   peach  vs  phone
+      Cosine Similarity = 0.0667    Euclidean Distance = 5.2915
+
+   peach  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   peach  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   peach  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   peach  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   peach  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   peach  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   peach  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   peach  vs  purple
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   peach  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   peach  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   peach  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   peach  vs  ocean
+      Cosine Similarity = 0.0667    Euclidean Distance = 5.2915
+
+   peach  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   dog  vs  cat
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.2426
+
+   dog  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.5826
+
+   dog  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   dog  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   dog  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.5826
+
+   dog  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   dog  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   dog  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   dog  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   dog  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   dog  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.2426
+
+   dog  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.5826
+
+   dog  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   dog  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   dog  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   dog  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   dog  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   dog  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   dog  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   dog  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   cat  vs  lion
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.5826
+
+   cat  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   cat  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   cat  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.5826
+
+   cat  vs  computer
+      Cosine Similarity = 0.0680    Euclidean Distance = 5.5678
+
+   cat  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   cat  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   cat  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   cat  vs  camera
+      Cosine Similarity = 0.2357    Euclidean Distance = 4.5826
+
+   cat  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.2426
+
+   cat  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.5826
+
+   cat  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   cat  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   cat  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   cat  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   cat  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   cat  vs  forest
+      Cosine Similarity = 0.0786    Euclidean Distance = 5.0000
+
+   cat  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   cat  vs  cloud
+      Cosine Similarity = 0.0861    Euclidean Distance = 4.6904
+
+   lion  vs  tiger
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   lion  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   lion  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   lion  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   lion  vs  phone
+      Cosine Similarity = 0.0745    Euclidean Distance = 5.0000
+
+   lion  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   lion  vs  screen
+      Cosine Similarity = 0.0680    Euclidean Distance = 5.2915
+
+   lion  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   lion  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.5826
+
+   lion  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   lion  vs  green
+      Cosine Similarity = 0.0745    Euclidean Distance = 5.0000
+
+   lion  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   lion  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   lion  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   lion  vs  mountain
+      Cosine Similarity = 0.0589    Euclidean Distance = 5.8310
+
+   lion  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   lion  vs  ocean
+      Cosine Similarity = 0.0745    Euclidean Distance = 5.0000
+
+   lion  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   tiger  vs  horse
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   tiger  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   tiger  vs  computer
+      Cosine Similarity = 0.1581    Euclidean Distance = 5.7446
+
+   tiger  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   tiger  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   tiger  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   tiger  vs  camera
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   tiger  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   tiger  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   tiger  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   tiger  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   tiger  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   tiger  vs  river
+      Cosine Similarity = 0.2000    Euclidean Distance = 4.8990
+
+   tiger  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   tiger  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   tiger  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   tiger  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   horse  vs  bird
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   horse  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   horse  vs  phone
+      Cosine Similarity = 0.1333    Euclidean Distance = 5.0990
+
+   horse  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   horse  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   horse  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   horse  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   horse  vs  blue
+      Cosine Similarity = 0.0745    Euclidean Distance = 5.0000
+
+   horse  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   horse  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   horse  vs  purple
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   horse  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   horse  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   horse  vs  forest
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   horse  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   horse  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   bird  vs  computer
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   bird  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   bird  vs  keyboard
+      Cosine Similarity = 0.1768    Euclidean Distance = 5.4772
+
+   bird  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   bird  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   bird  vs  red
+      Cosine Similarity = 0.0962    Euclidean Distance = 4.3589
+
+   bird  vs  blue
+      Cosine Similarity = 0.0833    Euclidean Distance = 4.6904
+
+   bird  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   bird  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   bird  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   bird  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   bird  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   bird  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   bird  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   bird  vs  cloud
+      Cosine Similarity = 0.0745    Euclidean Distance = 5.0000
+
+   computer  vs  phone
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   computer  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.9282
+
+   computer  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   computer  vs  camera
+      Cosine Similarity = 0.0962    Euclidean Distance = 6.1644
+
+   computer  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   computer  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   computer  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   computer  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   computer  vs  purple
+      Cosine Similarity = 0.0481    Euclidean Distance = 6.3246
+
+   computer  vs  river
+      Cosine Similarity = 0.1581    Euclidean Distance = 5.7446
+
+   computer  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.9282
+
+   computer  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   computer  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   computer  vs  cloud
+      Cosine Similarity = 0.0527    Euclidean Distance = 6.0828
+
+   phone  vs  keyboard
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   phone  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   phone  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   phone  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   phone  vs  blue
+      Cosine Similarity = 0.0745    Euclidean Distance = 5.0000
+
+   phone  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   phone  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   phone  vs  purple
+      Cosine Similarity = 0.1217    Euclidean Distance = 5.3852
+
+   phone  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   phone  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   phone  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   phone  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   phone  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   keyboard  vs  screen
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   keyboard  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   keyboard  vs  red
+      Cosine Similarity = 0.0680    Euclidean Distance = 5.5678
+
+   keyboard  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   keyboard  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   keyboard  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   keyboard  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   keyboard  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   keyboard  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.9282
+
+   keyboard  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   keyboard  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   keyboard  vs  cloud
+      Cosine Similarity = 0.0527    Euclidean Distance = 6.0828
+
+   screen  vs  camera
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   screen  vs  red
+      Cosine Similarity = 0.0786    Euclidean Distance = 5.0000
+
+   screen  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   screen  vs  green
+      Cosine Similarity = 0.5477    Euclidean Distance = 3.8730
+
+   screen  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   screen  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   screen  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   screen  vs  mountain
+      Cosine Similarity = 0.0481    Euclidean Distance = 6.3246
+
+   screen  vs  forest
+      Cosine Similarity = 0.0556    Euclidean Distance = 5.8310
+
+   screen  vs  ocean
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   screen  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   camera  vs  red
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   camera  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   camera  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   camera  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   camera  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   camera  vs  river
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   camera  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   camera  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   camera  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   camera  vs  cloud
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   red  vs  blue
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.5826
+
+   red  vs  green
+      Cosine Similarity = 0.0861    Euclidean Distance = 4.6904
+
+   red  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   red  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   red  vs  river
+      Cosine Similarity = 0.0861    Euclidean Distance = 4.6904
+
+   red  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   red  vs  forest
+      Cosine Similarity = 0.0786    Euclidean Distance = 5.0000
+
+   red  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 4.8990
+
+   red  vs  cloud
+      Cosine Similarity = 0.0861    Euclidean Distance = 4.6904
+
+   blue  vs  green
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   blue  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   blue  vs  purple
+      Cosine Similarity = 0.0680    Euclidean Distance = 5.2915
+
+   blue  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   blue  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   blue  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   blue  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   blue  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.1962
+
+   green  vs  yellow
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   green  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   green  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   green  vs  mountain
+      Cosine Similarity = 0.0527    Euclidean Distance = 6.0828
+
+   green  vs  forest
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   green  vs  ocean
+      Cosine Similarity = 0.0667    Euclidean Distance = 5.2915
+
+   green  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   yellow  vs  purple
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   yellow  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   yellow  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   yellow  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   yellow  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   yellow  vs  cloud
+      Cosine Similarity = 0.0609    Euclidean Distance = 5.5678
+
+   purple  vs  river
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   purple  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   purple  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.0000
+
+   purple  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   purple  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   river  vs  mountain
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.2450
+
+   river  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   river  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   river  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+   mountain  vs  forest
+      Cosine Similarity = 0.0000    Euclidean Distance = 6.4807
+
+   mountain  vs  ocean
+      Cosine Similarity = 0.0527    Euclidean Distance = 6.0828
+
+   mountain  vs  cloud
+      Cosine Similarity = 0.0527    Euclidean Distance = 6.0828
+
+   forest  vs  ocean
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   forest  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.7446
+
+   ocean  vs  cloud
+      Cosine Similarity = 0.0000    Euclidean Distance = 5.4772
+
+
+==================================================
+【Ngram - Sentences】
+==================================================
+Vector dimension: 555
+
+   I love eating apple  vs  I love eating banana
+      Cosine Similarity = 0.6369    Euclidean Distance = 6.2450
+
+   I love eating apple  vs  Strawberries are sweet
+      Cosine Similarity = 0.0539    Euclidean Distance = 10.2956
+
+   I love eating apple  vs  The computer is very fast
+      Cosine Similarity = 0.0702    Euclidean Distance = 10.3441
+
+   I love eating apple  vs  The laptop is portable
+      Cosine Similarity = 0.1657    Euclidean Distance = 9.5394
+
+   I love eating apple  vs  The phone screen is clear
+      Cosine Similarity = 0.1228    Euclidean Distance = 10.0499
+
+   I love eating apple  vs  The keyboard feels great
+      Cosine Similarity = 0.0891    Euclidean Distance = 10.1489
+
+   I love eating apple  vs  Today is a sunny day
+      Cosine Similarity = 0.0354    Euclidean Distance = 10.4881
+
+   I love eating apple  vs  The weather is very hot
+      Cosine Similarity = 0.1228    Euclidean Distance = 10.0499
+
+   I love eating apple  vs  The sky is cloudy today
+      Cosine Similarity = 0.0702    Euclidean Distance = 10.3441
+
+   I love eating apple  vs  The dog is very friendly
+      Cosine Similarity = 0.0898    Euclidean Distance = 10.0995
+
+   I love eating apple  vs  The cat likes to sleep
+      Cosine Similarity = 0.0945    Euclidean Distance = 9.7980
+
+   I love eating apple  vs  The bird sings beautifully
+      Cosine Similarity = 0.1175    Euclidean Distance = 10.3441
+
+   I love eating apple  vs  The sky is blue today
+      Cosine Similarity = 0.0937    Euclidean Distance = 9.8489
+
+   I love eating apple  vs  The leaves turn green
+      Cosine Similarity = 0.1114    Euclidean Distance = 9.7980
+
+   I love eating apple  vs  The river flows quietly
+      Cosine Similarity = 0.0730    Euclidean Distance = 10.0995
+
+   I love eating apple  vs  The mountain is very high
+      Cosine Similarity = 0.0891    Euclidean Distance = 10.1489
+
+   I love eating banana  vs  Strawberries are sweet
+      Cosine Similarity = 0.0168    Euclidean Distance = 10.8167
+
+   I love eating banana  vs  The computer is very fast
+      Cosine Similarity = 0.0493    Euclidean Distance = 10.7703
+
+   I love eating banana  vs  The laptop is portable
+      Cosine Similarity = 0.0690    Euclidean Distance = 10.3923
+
+   I love eating banana  vs  The phone screen is clear
+      Cosine Similarity = 0.0657    Euclidean Distance = 10.6771
+
+   I love eating banana  vs  The keyboard feels great
+      Cosine Similarity = 0.0668    Euclidean Distance = 10.5830
+
+   I love eating banana  vs  Today is a sunny day
+      Cosine Similarity = 0.0331    Euclidean Distance = 10.8167
+
+   I love eating banana  vs  The weather is very hot
+      Cosine Similarity = 0.0986    Euclidean Distance = 10.4881
+
+   I love eating banana  vs  The sky is cloudy today
+      Cosine Similarity = 0.0493    Euclidean Distance = 10.7703
+
+   I love eating banana  vs  The dog is very friendly
+      Cosine Similarity = 0.0673    Euclidean Distance = 10.5357
+
+   I love eating banana  vs  The cat likes to sleep
+      Cosine Similarity = 0.0531    Euclidean Distance = 10.3441
+
+   I love eating banana  vs  The bird sings beautifully
+      Cosine Similarity = 0.1258    Euclidean Distance = 10.5830
+
+   I love eating banana  vs  The sky is blue today
+      Cosine Similarity = 0.0702    Euclidean Distance = 10.2956
+
+   I love eating banana  vs  The leaves turn green
+      Cosine Similarity = 0.0696    Euclidean Distance = 10.3441
+
+   I love eating banana  vs  The river flows quietly
+      Cosine Similarity = 0.0513    Euclidean Distance = 10.5357
+
+   I love eating banana  vs  The mountain is very high
+      Cosine Similarity = 0.0668    Euclidean Distance = 10.5830
+
+   Strawberries are sweet  vs  The computer is very fast
+      Cosine Similarity = 0.0945    Euclidean Distance = 10.7238
+
+   Strawberries are sweet  vs  The laptop is portable
+      Cosine Similarity = 0.0496    Euclidean Distance = 10.7238
+
+   Strawberries are sweet  vs  The phone screen is clear
+      Cosine Similarity = 0.1260    Euclidean Distance = 10.5357
+
+   Strawberries are sweet  vs  The keyboard feels great
+      Cosine Similarity = 0.0960    Euclidean Distance = 10.6301
+
+   Strawberries are sweet  vs  Today is a sunny day
+      Cosine Similarity = 0.0635    Euclidean Distance = 10.8628
+
+   Strawberries are sweet  vs  The weather is very hot
+      Cosine Similarity = 0.0945    Euclidean Distance = 10.7238
+
+   Strawberries are sweet  vs  The sky is cloudy today
+      Cosine Similarity = 0.0630    Euclidean Distance = 10.9087
+
+   Strawberries are sweet  vs  The dog is very friendly
+      Cosine Similarity = 0.0968    Euclidean Distance = 10.5830
+
+   Strawberries are sweet  vs  The cat likes to sleep
+      Cosine Similarity = 0.1358    Euclidean Distance = 10.0995
+
+   Strawberries are sweet  vs  The bird sings beautifully
+      Cosine Similarity = 0.0754    Euclidean Distance = 11.0905
+
+   Strawberries are sweet  vs  The sky is blue today
+      Cosine Similarity = 0.0841    Euclidean Distance = 10.4403
+
+   Strawberries are sweet  vs  The leaves turn green
+      Cosine Similarity = 0.1001    Euclidean Distance = 10.3923
+
+   Strawberries are sweet  vs  The river flows quietly
+      Cosine Similarity = 0.0984    Euclidean Distance = 10.4881
+
+   Strawberries are sweet  vs  The mountain is very high
+      Cosine Similarity = 0.0480    Euclidean Distance = 10.9087
+
+   The computer is very fast  vs  The laptop is portable
+      Cosine Similarity = 0.2584    Euclidean Distance = 9.5917
+
+   The computer is very fast  vs  The phone screen is clear
+      Cosine Similarity = 0.2769    Euclidean Distance = 9.6954
+
+   The computer is very fast  vs  The keyboard feels great
+      Cosine Similarity = 0.1875    Euclidean Distance = 10.1980
+
+   The computer is very fast  vs  Today is a sunny day
+      Cosine Similarity = 0.1550    Euclidean Distance = 10.4403
+
+   The computer is very fast  vs  The weather is very hot
+      Cosine Similarity = 0.5538    Euclidean Distance = 7.6158
+
+   The computer is very fast  vs  The sky is cloudy today
+      Cosine Similarity = 0.3077    Euclidean Distance = 9.4868
+
+   The computer is very fast  vs  The dog is very friendly
+      Cosine Similarity = 0.4726    Euclidean Distance = 8.1854
+
+   The computer is very fast  vs  The cat likes to sleep
+      Cosine Similarity = 0.2155    Euclidean Distance = 9.7468
+
+   The computer is very fast  vs  The bird sings beautifully
+      Cosine Similarity = 0.1766    Euclidean Distance = 10.5830
+
+   The computer is very fast  vs  The sky is blue today
+      Cosine Similarity = 0.3121    Euclidean Distance = 9.1652
+
+   The computer is very fast  vs  The leaves turn green
+      Cosine Similarity = 0.1954    Euclidean Distance = 9.9499
+
+   The computer is very fast  vs  The river flows quietly
+      Cosine Similarity = 0.2882    Euclidean Distance = 9.4340
+
+   The computer is very fast  vs  The mountain is very high
+      Cosine Similarity = 0.4376    Euclidean Distance = 8.4853
+
+   The laptop is portable  vs  The phone screen is clear
+      Cosine Similarity = 0.3230    Euclidean Distance = 9.1652
+
+   The laptop is portable  vs  The keyboard feels great
+      Cosine Similarity = 0.1804    Euclidean Distance = 10.0000
+
+   The laptop is portable  vs  Today is a sunny day
+      Cosine Similarity = 0.1302    Euclidean Distance = 10.3441
+
+   The laptop is portable  vs  The weather is very hot
+      Cosine Similarity = 0.3068    Euclidean Distance = 9.2736
+
+   The laptop is portable  vs  The sky is cloudy today
+      Cosine Similarity = 0.2907    Euclidean Distance = 9.3808
+
+   The laptop is portable  vs  The dog is very friendly
+      Cosine Similarity = 0.2645    Euclidean Distance = 9.4340
+
+   The laptop is portable  vs  The cat likes to sleep
+      Cosine Similarity = 0.2784    Euclidean Distance = 9.1104
+
+   The laptop is portable  vs  The bird sings beautifully
+      Cosine Similarity = 0.1700    Euclidean Distance = 10.3923
+
+   The laptop is portable  vs  The sky is blue today
+      Cosine Similarity = 0.3621    Euclidean Distance = 8.6023
+
+   The laptop is portable  vs  The leaves turn green
+      Cosine Similarity = 0.2393    Euclidean Distance = 9.4340
+
+   The laptop is portable  vs  The river flows quietly
+      Cosine Similarity = 0.1849    Euclidean Distance = 9.8489
+
+   The laptop is portable  vs  The mountain is very high
+      Cosine Similarity = 0.2788    Euclidean Distance = 9.3808
+
+   The phone screen is clear  vs  The keyboard feels great
+      Cosine Similarity = 0.2344    Euclidean Distance = 9.8995
+
+   The phone screen is clear  vs  Today is a sunny day
+      Cosine Similarity = 0.1240    Euclidean Distance = 10.6301
+
+   The phone screen is clear  vs  The weather is very hot
+      Cosine Similarity = 0.3385    Euclidean Distance = 9.2736
+
+   The phone screen is clear  vs  The sky is cloudy today
+      Cosine Similarity = 0.3231    Euclidean Distance = 9.3808
+
+   The phone screen is clear  vs  The dog is very friendly
+      Cosine Similarity = 0.2678    Euclidean Distance = 9.6437
+
+   The phone screen is clear  vs  The cat likes to sleep
+      Cosine Similarity = 0.2652    Euclidean Distance = 9.4340
+
+   The phone screen is clear  vs  The bird sings beautifully
+      Cosine Similarity = 0.1914    Euclidean Distance = 10.4881
+
+   The phone screen is clear  vs  The sky is blue today
+      Cosine Similarity = 0.3286    Euclidean Distance = 9.0554
+
+   The phone screen is clear  vs  The leaves turn green
+      Cosine Similarity = 0.4072    Euclidean Distance = 8.5440
+
+   The phone screen is clear  vs  The river flows quietly
+      Cosine Similarity = 0.1922    Euclidean Distance = 10.0499
+
+   The phone screen is clear  vs  The mountain is very high
+      Cosine Similarity = 0.2657    Euclidean Distance = 9.6954
+
+   The keyboard feels great  vs  Today is a sunny day
+      Cosine Similarity = 0.0315    Euclidean Distance = 11.0905
+
+   The keyboard feels great  vs  The weather is very hot
+      Cosine Similarity = 0.2657    Euclidean Distance = 9.6954
+
+   The keyboard feels great  vs  The sky is cloudy today
+      Cosine Similarity = 0.1719    Euclidean Distance = 10.2956
+
+   The keyboard feels great  vs  The dog is very friendly
+      Cosine Similarity = 0.1760    Euclidean Distance = 10.1489
+
+   The keyboard feels great  vs  The cat likes to sleep
+      Cosine Similarity = 0.2694    Euclidean Distance = 9.3274
+
+   The keyboard feels great  vs  The bird sings beautifully
+      Cosine Similarity = 0.2093    Euclidean Distance = 10.2956
+
+   The keyboard feels great  vs  The sky is blue today
+      Cosine Similarity = 0.2003    Euclidean Distance = 9.7980
+
+   The keyboard feels great  vs  The leaves turn green
+      Cosine Similarity = 0.3143    Euclidean Distance = 9.1104
+
+   The keyboard feels great  vs  The river flows quietly
+      Cosine Similarity = 0.1789    Euclidean Distance = 10.0499
+
+   The keyboard feels great  vs  The mountain is very high
+      Cosine Similarity = 0.1587    Euclidean Distance = 10.2956
+
+   Today is a sunny day  vs  The weather is very hot
+      Cosine Similarity = 0.1550    Euclidean Distance = 10.4403
+
+   Today is a sunny day  vs  The sky is cloudy today
+      Cosine Similarity = 0.5582    Euclidean Distance = 7.5498
+
+   Today is a sunny day  vs  The dog is very friendly
+      Cosine Similarity = 0.2223    Euclidean Distance = 9.8995
+
+   Today is a sunny day  vs  The cat likes to sleep
+      Cosine Similarity = 0.1002    Euclidean Distance = 10.3923
+
+   Today is a sunny day  vs  The bird sings beautifully
+      Cosine Similarity = 0.0890    Euclidean Distance = 11.0905
+
+   Today is a sunny day  vs  The sky is blue today
+      Cosine Similarity = 0.5464    Euclidean Distance = 7.4162
+
+   Today is a sunny day  vs  The leaves turn green
+      Cosine Similarity = 0.0492    Euclidean Distance = 10.7703
+
+   Today is a sunny day  vs  The river flows quietly
+      Cosine Similarity = 0.0807    Euclidean Distance = 10.6771
+
+   Today is a sunny day  vs  The mountain is very high
+      Cosine Similarity = 0.1732    Euclidean Distance = 10.2470
+
+   The weather is very hot  vs  The sky is cloudy today
+      Cosine Similarity = 0.3385    Euclidean Distance = 9.2736
+
+   The weather is very hot  vs  The dog is very friendly
+      Cosine Similarity = 0.5041    Euclidean Distance = 7.9373
+
+   The weather is very hot  vs  The cat likes to sleep
+      Cosine Similarity = 0.2652    Euclidean Distance = 9.4340
+
+   The weather is very hot  vs  The bird sings beautifully
+      Cosine Similarity = 0.2208    Euclidean Distance = 10.2956
+
+   The weather is very hot  vs  The sky is blue today
+      Cosine Similarity = 0.3614    Euclidean Distance = 8.8318
+
+   The weather is very hot  vs  The leaves turn green
+      Cosine Similarity = 0.2606    Euclidean Distance = 9.5394
+
+   The weather is very hot  vs  The river flows quietly
+      Cosine Similarity = 0.3203    Euclidean Distance = 9.2195
+
+   The weather is very hot  vs  The mountain is very high
+      Cosine Similarity = 0.5001    Euclidean Distance = 8.0000
+
+   The sky is cloudy today  vs  The dog is very friendly
+      Cosine Similarity = 0.3466    Euclidean Distance = 9.1104
+
+   The sky is cloudy today  vs  The cat likes to sleep
+      Cosine Similarity = 0.2818    Euclidean Distance = 9.3274
+
+   The sky is cloudy today  vs  The bird sings beautifully
+      Cosine Similarity = 0.2208    Euclidean Distance = 10.2956
+
+   The sky is cloudy today  vs  The sky is blue today
+      Cosine Similarity = 0.7557    Euclidean Distance = 5.4772
+
+   The sky is cloudy today  vs  The leaves turn green
+      Cosine Similarity = 0.2117    Euclidean Distance = 9.8489
+
+   The sky is cloudy today  vs  The river flows quietly
+      Cosine Similarity = 0.2402    Euclidean Distance = 9.7468
+
+   The sky is cloudy today  vs  The mountain is very high
+      Cosine Similarity = 0.3125    Euclidean Distance = 9.3808
+
+   The dog is very friendly  vs  The cat likes to sleep
+      Cosine Similarity = 0.1867    Euclidean Distance = 9.7980
+
+   The dog is very friendly  vs  The bird sings beautifully
+      Cosine Similarity = 0.2110    Euclidean Distance = 10.2470
+
+   The dog is very friendly  vs  The sky is blue today
+      Cosine Similarity = 0.3533    Euclidean Distance = 8.7750
+
+   The dog is very friendly  vs  The leaves turn green
+      Cosine Similarity = 0.2168    Euclidean Distance = 9.6954
+
+   The dog is very friendly  vs  The river flows quietly
+      Cosine Similarity = 0.3279    Euclidean Distance = 9.0554
+
+   The dog is very friendly  vs  The mountain is very high
+      Cosine Similarity = 0.4480    Euclidean Distance = 8.3066
+
+   The cat likes to sleep  vs  The bird sings beautifully
+      Cosine Similarity = 0.1903    Euclidean Distance = 10.1489
+
+   The cat likes to sleep  vs  The sky is blue today
+      Cosine Similarity = 0.3009    Euclidean Distance = 8.8882
+
+   The cat likes to sleep  vs  The leaves turn green
+      Cosine Similarity = 0.3158    Euclidean Distance = 8.8318
+
+   The cat likes to sleep  vs  The river flows quietly
+      Cosine Similarity = 0.1898    Euclidean Distance = 9.6954
+
+   The cat likes to sleep  vs  The mountain is very high
+      Cosine Similarity = 0.1852    Euclidean Distance = 9.8489
+
+   The bird sings beautifully  vs  The sky is blue today
+      Cosine Similarity = 0.2672    Euclidean Distance = 9.6954
+
+   The bird sings beautifully  vs  The leaves turn green
+      Cosine Similarity = 0.1870    Euclidean Distance = 10.2470
+
+   The bird sings beautifully  vs  The river flows quietly
+      Cosine Similarity = 0.1992    Euclidean Distance = 10.2470
+
+   The bird sings beautifully  vs  The mountain is very high
+      Cosine Similarity = 0.1794    Euclidean Distance = 10.4881
+
+   The sky is blue today  vs  The leaves turn green
+      Cosine Similarity = 0.2435    Euclidean Distance = 9.3274
+
+   The sky is blue today  vs  The river flows quietly
+      Cosine Similarity = 0.2394    Euclidean Distance = 9.4340
+
+   The sky is blue today  vs  The mountain is very high
+      Cosine Similarity = 0.3171    Euclidean Distance = 9.0554
+
+   The leaves turn green  vs  The river flows quietly
+      Cosine Similarity = 0.2034    Euclidean Distance = 9.6954
+
+   The leaves turn green  vs  The mountain is very high
+      Cosine Similarity = 0.2316    Euclidean Distance = 9.6437
+
+   The river flows quietly  vs  The mountain is very high
+      Cosine Similarity = 0.2277    Euclidean Distance = 9.7468
+
